@@ -1,0 +1,57 @@
+<resources>
+
+    <!--Happy Code - Bima Maarschal-->
+
+    <string name="app_name">Ujian Tengah Semester_Bima Maarschal_20552011107_2022</string>
+    <string name="abc_resto">ABC Resto</string>
+    <string name="moto">Pelayanan Pintar Pesan Makanan</string>
+    <string name="uts">Aplikasi ini dibuat untuk memenuhi penilaian UTS</string>
+    <string name="namaku">Nama : Bima Maarschal R K F</string>
+    <string name="npmku">NPM : 20552011107</string>
+    <string name="kelasku">Kelas : TIF RP 20 CID</string>
+    <string name="startbtn">Mulai</string>
+    <string name="maintext1"><![CDATA[Tulis Pesanan & Order]]></string>
+    <string name="namapemesan">Nama Pemesan</string>
+    <string name="textboxnamapemesan">Nama Pelanggan Pemesan</string>
+    <string name="pilihan_makanan">Pilihan Makanan (akan datang)</string>
+    <string name="pilihan_menu">Pilihan Menu</string>
+    <string name="pilihan_minum">Pilihan Minuman (akan datang)</string>
+    <string name="pilihan_menu_diskon">Pilihan Menu dengan Diskon (akan datang)</string>
+    <string name="fungsi_tombol_order">fungsi tombol order</string>
+    <string name="title1">title</string>
+    <string name="rp">Rp.</string>
+    <string name="_1_1">1</string>
+    <string name="description">description</string>
+    <string name="tambah_pilihan">Tambah Pilihan</string>
+    <string name="tambah">tambah</string>
+    <string name="kurang">kurang</string>
+    <string name="gambar">gambar</string>
+    <string name="rincian_harga">Rincian Harga</string>
+    <string name="nama_pemesan_1">Nama Pemesan :</string>
+    <string name="_0">0</string>
+    <string name="total_harga">Total Harga :</string>
+    <string name="biaya_administrasi">Biaya Administrasi :</string>
+    <string name="pajak">Pajak :</string>
+    <string name="total_harga_seluruh">Total Harga:</string>
+    <string name="dibayar">Dibayar:</string>
+    <string name="bayar">Bayar</string>
+    <string name="total_harga_yang_dibayarkan">Total harga yang dibayarkan :</string>
+    <string name="pecahan_uang">Pecahan uang:</string>
+    <string name="kembalian">Kembalian :</string>
+    <string name="cetak_struk">Cetak Struk</string>
+    <string name="pilihan_anda_kosong">Pilihan Anda Kosong</string>
+    <string name="struk_pembelian">Struk Pembelian</string>
+    <string name="terima_kasih_atas_kunjunganya">Terima Kasih atas kunjunganya</string>
+    <string name="happy_code_by_bimamaarschal">Happy Code by BimaMaarschal</string>
+    <string name="nama_pemesan">Nama Pemesan :</string>
+    <string name="tanggal_pemesanan">Tanggal Pemesanan :</string>
+    <string name="transaksi">Transaksi</string>
+    <string name="tambah_viewholder">Tambah</string>
+    <string name="_0_0">0.0</string>
+    <string name="subjek">Subjek</string>
+    <string name="total_rp">Total Rp.</string>
+    <string name="_1">1</string>
+    <string name="title">title</string>
+
+
+</resources>

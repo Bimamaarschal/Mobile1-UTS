@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Happy Code - Bima Maarschal-->
+    <!--Color Theme Style - Resource by Adobe-->
+
+    <!--system-->
+    <color name="purple_200">#003458</color>
+    <color name="purple_500">#003458</color>
+    <color name="purple_700">#15192F</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--App Style-->
+    <color name="red_wrath">#F01159</color>
+    <color name="winter_days">#DFF8FE</color>
+    <color name="sky_of_ocean">#82CDE5</color>
+    <color name="night_dive">#003458</color>
+    <color name="cristmas_eve">#15192F</color>
+    <color name="baby_smooth">#ebf2f0</color>
+
+
+</resources>
